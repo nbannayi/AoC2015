@@ -1,0 +1,2 @@
+# AoC2015
+I had so much fun doing Advent of Code 2024 I've decided to go back to where it all began and start from the very beginning.  Just using C#, taking it slow when I can be arsed - no pressure.  Let's see if I can get all 500 stars by next Christmas (seems doubtful.)
